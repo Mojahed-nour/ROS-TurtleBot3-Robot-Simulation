@@ -34,7 +34,7 @@ Installing the independent packages for TurtleBot3 control by Entering the follo
 The preparation for TurtleBot3 is done.
 
 ## Launching turtlebot simulation:
-TurtleBot3 has three models, Burger, Waffle, and Waffle Pi (as on the first picture), 
+TurtleBot3 has three models, Burger, Waffle, and Waffle Pi (as appeared on the first picture), 
 * specify which model will be used (e.g. Burger)
 * choosing which file in gazebo folder to simulate (e.g. empty world)
 * opening the file and replacing "TURTLEBOT3_MODEL" with "burger"
